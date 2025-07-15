@@ -5,13 +5,23 @@
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 ### 🎬 MovieIQ – Movie Success Prediction Dashboard  
 An interactive Streamlit dashboard that predicts movie success based on genre, budget, and user ratings using EDA, statistical testing, and machine learning.
 
 🔗 [Live App](https://movieiq-predictive-analytics-on-film-success-hkz386d9xzv5mygjz.streamlit.app/)  
 📁 [GitHub Repo](https://github.com/nv2105/MovieIQ-Predictive-Analytics-on-Film-Success)
+
+---
+
+### 🔐 PassGuardian – Smart Password Strength Evaluator  
+A PyPI-published terminal tool that checks password strength using entropy scoring, breach detection (via HaveIBeenPwned API), smart suggestions, and a rich-text CLI UI.
+
+📦 `pip install passguardian`  
+📁 [GitHub Repo](https://github.com/nv2105/PassGuardian-Password-Strength-Tool)  
+🔗 [PyPI Package](https://pypi.org/project/passguardian/)
+
 
 ---
 
