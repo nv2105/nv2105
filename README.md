@@ -24,10 +24,16 @@ A PyPI-published terminal tool that checks password strength using entropy scori
 
 
 ---
+### 🤖 QuickRAG – FAQ Chatbot  
+An intelligent Retrieval-Augmented Generation (RAG) chatbot that answers FAQs using domain-specific datasets. Built with Python, Qdrant Cloud, and Groq LLM, it demonstrates end-to-end RAG pipelines from embeddings to vector search to response generation.
 
+📁 [GitHub Repo](https://github.com/nv2105/QuickRAG-FAQ-Bot)
+
+---
 ## 🧰 Tech Stack
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`  
 `Scikit-learn` `Streamlit` `VS Code` `Git & GitHub`
+`machine learning` `AI` `RAG` `API` `SQL` `NLP`
 
 ---
 
