@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naman Vora
 
-🎓 Final Year CSE Student | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
+🎓 Final Year CSE Student | 📊 Aspiring Data Scientist | 🧠 Lifelong Learner  
 🔍 Passionate about turning data into actionable insights with ML and storytelling.
 
 ---
